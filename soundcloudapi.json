@@ -1,0 +1,38 @@
+[
+  {
+     "id" : "1",
+    "title": "1. Terlalu Manis",
+     "artist": "Slank",
+    "duration": 287141,
+    "stream_url": "https://api.soundcloud.com/tracks/3200574/stream",
+    "lyrics_url": "https://www.azlyrics.com/lyrics/slank/terlalumanis.html"
+
+  },
+    {
+    "id" : "2",
+    "title": "2. Separuh Aku",
+     "artist": "NOAH",
+    "duration": 287141,
+    "stream_url": "https://api.soundcloud.com/tracks/3200574/stream",
+    "lyrics_url": "https://www.azlyrics.com/lyrics/noah/separuhaku.html"
+
+  },
+    {
+     "id" : "3",
+    "title": "3. Kemarin",
+     "artist": "Seventeen",
+    "duration": 287141,
+    "stream_url": "https://api.soundcloud.com/tracks/3200574/stream",
+    "lyrics_url": "https://www.azlyrics.com/lyrics/seventeen-indonesia/kemarin.html"
+
+  },
+    {
+     "id" : "4",
+    "title": "4. Surat Cinta Untuk Starla",
+     "artist": "Virgoun",
+    "duration": 287141,
+    "stream_url": "https://api.soundcloud.com/tracks/3200574/stream",
+    "lyrics_url": "https://www.azlyrics.com/lyrics/virgoun/suratcintauntukstarla.html"
+
+  }
+]
